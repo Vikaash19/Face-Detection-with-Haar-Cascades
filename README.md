@@ -173,23 +173,25 @@ plt.close()
 ## OUTPUT:
 ## I) INPUT IMAGES:
 
+![image](https://github.com/user-attachments/assets/b2290352-cc7f-4674-9664-dfc3a7185e81)
 
-![image](https://github.com/user-attachments/assets/6adf74f5-a4ec-4a1a-b44d-a72f9b901a48)
+![image](https://github.com/user-attachments/assets/e14f345d-0509-44fb-bd87-a06687881c98)
 
-![image](https://github.com/user-attachments/assets/264341a2-7b07-4a56-9ce0-61649c2ef560)
+![image](https://github.com/user-attachments/assets/65eb2c01-17e3-4cc3-a653-23fa3bebf6e4)
 
-![image](https://github.com/user-attachments/assets/a80ab15f-5e74-4bc8-b967-a15e69532f21)
 ## II) FACE DETECTION:
+![image](https://github.com/user-attachments/assets/3974bd90-088b-4a41-a2fd-c231be1ca0ed)
 
-![image](https://github.com/user-attachments/assets/e5bf7a0c-e916-4986-8226-5ddbd176567f)
-## II) EYE DETECTION:
+![image](https://github.com/user-attachments/assets/6e4eb118-cc07-459b-a7d7-dee05b69e37a)
 
-![image](https://github.com/user-attachments/assets/527c2a12-f881-472d-a54b-e21d61e028b4)
+## III) EYE DETECTION:
+![image](https://github.com/user-attachments/assets/711a2938-6a3b-4ada-877a-75c808ccaa44)
 
-![image](https://github.com/user-attachments/assets/1c9d770f-c29d-4113-b39c-e8408a4d45ff)
-## III) VIDEO FACE DETECTION:
+![image](https://github.com/user-attachments/assets/75695956-a0af-48ea-92d0-51ecf7ec4367)
 
-![image](https://github.com/user-attachments/assets/7a75b51e-3fa9-4c7b-b1eb-9898d2926e6e)
+## IV) VIDEO FACE DETECTION:
+![image](https://github.com/user-attachments/assets/0315ec6e-87fa-4230-82f8-9f71124e83d6)
+
 
 ## RESULT:
 thus the given objective of face detection is done sucessfully.
